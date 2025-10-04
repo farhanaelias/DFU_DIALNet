@@ -53,8 +53,5 @@ Monirul Islam Mahmud, Md Shihab Reza, Mohammad Olid Ali Akash, Farhana Elias, No
 ![image](https://github.com/Monirul-Islam-Mahmud/Diabetic-Foot-Ulcer-Detection/assets/59494761/0693de4d-d83e-47f8-90da-32b543db4f57)  
 ![image](https://github.com/user-attachments/assets/2d674aa0-5629-42ca-ab7c-32fed65536c8)
 
----
 
-one.0330669},
-  url       = {https://doi.org/10.1371/journal.pone.0330669}
-}
+
