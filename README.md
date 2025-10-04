@@ -49,9 +49,6 @@ Monirul Islam Mahmud, Md Shihab Reza, Mohammad Olid Ali Akash, Farhana Elias, No
 ![Fig3](https://github.com/user-attachments/assets/397e1fba-e2f1-4525-a9a6-0c29b3a9d395)  
 ![Fig4](https://github.com/user-attachments/assets/52f13589-3283-486c-8c4d-0ec0c3bc267c)  
 
-![image](https://github.com/Monirul-Islam-Mahmud/Diabetic-Foot-Ulcer-Detection/assets/59494761/5482377d-e0ce-43ff-8de3-38fdce536359)  
-![image](https://github.com/Monirul-Islam-Mahmud/Diabetic-Foot-Ulcer-Detection/assets/59494761/0693de4d-d83e-47f8-90da-32b543db4f57)  
-![image](https://github.com/user-attachments/assets/2d674aa0-5629-42ca-ab7c-32fed65536c8)
 
 
 
